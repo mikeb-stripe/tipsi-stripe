@@ -120,7 +120,7 @@ const Showcase = props => {
       <h2>Quick navigation</h2>
       <p>
         <a href="https://github.com/stripe/stripe-react-native">
-          Official library: stripe-react-native
+          Official library: @stripe/stripe-react-native
         </a>
       </p>
       <p>
