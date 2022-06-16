@@ -1,6 +1,6 @@
 # 🚨 This library is no longer maintained 🚨
 
-If you're building mobile apps with react-native, please use Stripe's official library, [`stripe-react-native`](https://github.com/stripe/stripe-react-native).
+If you're building apps with React Native, please use [Stripe's official React Native library](https://github.com/stripe/stripe-react-native).
 
 # tipsi-stripe
 
