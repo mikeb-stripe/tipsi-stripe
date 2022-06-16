@@ -80,7 +80,7 @@ class HomeSplash extends React.Component {
           <ProjectTitle />
           <PromoSection>
             <Button href="https://github.com/stripe/stripe-react-native">
-              Official library: stripe-react-native
+              Official library: @stripe/stripe-react-native
             </Button>
           </PromoSection>
         </div>
